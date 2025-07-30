@@ -1,10 +1,10 @@
-# 🎬 Movie Recommendation System using Python
+🎬 Movie Recommendation System using Python
 
 This project is a simple **Content-Based Movie Recommendation System** built in Python. It recommends similar movies based on the movie's description, genre, and director using NLP and cosine similarity.
 
 ---
 
-## 📌 Features
+ 📌 Features
 
 - Text cleaning (stopword removal, punctuation filtering, lemmatization)
 - Uses **TF Vectorization** to convert movie content to vectors
@@ -13,7 +13,7 @@ This project is a simple **Content-Based Movie Recommendation System** built in 
 
 ---
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 
 - Python
 - Libraries used:
@@ -25,7 +25,7 @@ This project is a simple **Content-Based Movie Recommendation System** built in 
 
 ---
 
-## 📂 Dataset Used
+📂 Dataset Used
 
 - `netflix_titles.csv`  
 - Make sure this file is correctly placed or update its path inside the code:
